@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&text=Hi%20guys%20I'm%20Taehyeon!&animation=scaleIn&fontColor=000000&fontSize=70" />
